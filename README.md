@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🌸
 
 <!--
 **msmagowska/msmagowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://wakatime.com/@eef35363-348e-4be9-a1c3-2cc6ca934845"><img src="https://wakatime.com/badge/user/eef35363-348e-4be9-a1c3-2cc6ca934845.svg" alt="Total time coded since Jul 11 2023" /></a>
