@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://wakatime.com/@eef35363-348e-4be9-a1c3-2cc6ca934845"><img src="https://wakatime.com/badge/user/eef35363-348e-4be9-a1c3-2cc6ca934845.svg" alt="Total time coded since Jul 11 2023" /></a>
+<a href="https://wakatime.com/@eef35363-348e-4be9-a1c3-2cc6ca934845"><img src="https://wakatime.com/badge/user/eef35363-348e-4be9-a1c3-2cc6ca934845.svg" alt="Total time coded since Jul 11 2023" /></a> <h6><i>Total time coded since Jul 11 2023.</i></h6>
+
